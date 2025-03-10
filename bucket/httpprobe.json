@@ -1,26 +1,26 @@
 {
-    "version": "1.0.6",
+    "version": "1.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mrfoh/httpprobe/releases/download/v1.0.6/httpprobe-v1.0.6_windows_386.tar.gz",
+            "url": "https://github.com/mrfoh/httpprobe/releases/download/v1.1.0/httpprobe-v1.1.0_windows_386.tar.gz",
             "bin": [
                 "httpprobe.exe"
             ],
-            "hash": "2080086745e1fcb4a579b92252b6714cd372282c6820b580053e1369c7c3e7fe"
+            "hash": "e4bedcce1de09653a977a889e48cafa2c97fbca278bb610790ad49678548a853"
         },
         "64bit": {
-            "url": "https://github.com/mrfoh/httpprobe/releases/download/v1.0.6/httpprobe-v1.0.6_windows_amd64.tar.gz",
+            "url": "https://github.com/mrfoh/httpprobe/releases/download/v1.1.0/httpprobe-v1.1.0_windows_amd64.tar.gz",
             "bin": [
                 "httpprobe.exe"
             ],
-            "hash": "f8113e7274387e36f3cbe1d16a21a4ee04e357188c0b673020628a349e74b12b"
+            "hash": "b89ccd17ed3a5c6cecce9b835bd3a0a02fb8928f98f8d8be845ab00d6746923a"
         },
         "arm64": {
-            "url": "https://github.com/mrfoh/httpprobe/releases/download/v1.0.6/httpprobe-v1.0.6_windows_arm64.tar.gz",
+            "url": "https://github.com/mrfoh/httpprobe/releases/download/v1.1.0/httpprobe-v1.1.0_windows_arm64.tar.gz",
             "bin": [
                 "httpprobe.exe"
             ],
-            "hash": "fc2a83c5b2dd2c928e22ec16b33fc3d9c3dc65e79fbace2e2d685452f7807c37"
+            "hash": "0198d710def2f1dbcc6d6957521872cffa10778aba3f942519f19eb3cdf4853b"
         }
     },
     "homepage": "https://github.com/mrfoh/httpprobe",
